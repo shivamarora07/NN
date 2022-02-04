@@ -1,0 +1,8 @@
+Executable : C:\Users\shiva\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+C:\Shivam\LL\App\examples-master\examples-master\lite\examples\super_resolution\android\app\.cxx\cmake\debug\arm64-v8a
+--target
+SuperResolution
+jvmArgs : 
+

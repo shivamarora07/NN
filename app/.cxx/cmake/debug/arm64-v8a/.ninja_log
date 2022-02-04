@@ -1,0 +1,19 @@
+# ninja log v5
+41	2215	0	CMakeFiles/SuperResolution.dir/SuperResolution_jni.cpp.o	1c61e4e710b438d3
+1	2896	0	CMakeFiles/SuperResolution.dir/SuperResolution.cpp.o	60e7d24eba496b5f
+2897	3346	0	C:/Shivam/LL/App/examples-master/examples-master/lite/examples/super_resolution/android/app/build/intermediates/cmake/debug/obj/arm64-v8a/libSuperResolution.so	598dc0879a11211c
+9	1323	0	CMakeFiles/SuperResolution.dir/SuperResolution_jni.cpp.o	1c61e4e710b438d3
+44	1605	0	CMakeFiles/SuperResolution.dir/SuperResolution.cpp.o	60e7d24eba496b5f
+1605	2018	0	C:/Shivam/LL/App/examples-master/examples-master/lite/examples/super_resolution/android/app/build/intermediates/cmake/debug/obj/arm64-v8a/libSuperResolution.so	598dc0879a11211c
+3	1323	0	CMakeFiles/SuperResolution.dir/SuperResolution_jni.cpp.o	1c61e4e710b438d3
+38	1636	0	CMakeFiles/SuperResolution.dir/SuperResolution.cpp.o	60e7d24eba496b5f
+1636	2034	0	C:/Shivam/LL/App/examples-master/examples-master/lite/examples/super_resolution/android/app/build/intermediates/cmake/debug/obj/arm64-v8a/libSuperResolution.so	598dc0879a11211c
+3	1495	0	CMakeFiles/SuperResolution.dir/SuperResolution_jni.cpp.o	1c61e4e710b438d3
+46	1743	0	CMakeFiles/SuperResolution.dir/SuperResolution.cpp.o	60e7d24eba496b5f
+1743	2153	0	C:/Shivam/LL/App/examples-master/examples-master/lite/examples/super_resolution/android/app/build/intermediates/cmake/debug/obj/arm64-v8a/libSuperResolution.so	598dc0879a11211c
+2	1356	0	CMakeFiles/SuperResolution.dir/SuperResolution_jni.cpp.o	1c61e4e710b438d3
+31	1614	0	CMakeFiles/SuperResolution.dir/SuperResolution.cpp.o	60e7d24eba496b5f
+1614	2006	0	C:/Shivam/LL/App/examples-master/examples-master/lite/examples/super_resolution/android/app/build/intermediates/cmake/debug/obj/arm64-v8a/libSuperResolution.so	598dc0879a11211c
+30	1293	0	CMakeFiles/SuperResolution.dir/SuperResolution_jni.cpp.o	1c61e4e710b438d3
+2	1599	0	CMakeFiles/SuperResolution.dir/SuperResolution.cpp.o	60e7d24eba496b5f
+1599	1984	0	C:/Shivam/LL/App/examples-master/examples-master/lite/examples/super_resolution/android/app/build/intermediates/cmake/debug/obj/arm64-v8a/libSuperResolution.so	598dc0879a11211c
